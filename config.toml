@@ -1,0 +1,25 @@
+title = "FLAIR"
+baseURL = 'http://foersterlab.com/'
+languageCode = 'en-us'
+theme = 'flair'
+
+# Add Google Analytics tracking code to enable
+# googleAnalytics = "..."
+
+# Menu name
+sectionPagesMenu = "main"
+
+[params]
+    # Title for printing
+    longTitle = "Foerster Lab for AI Research"
+    twitterHandle = "FLAIR_Ox"
+    favicon = "icon.png"
+
+    # Metadata for Open Graph and Twitter
+    description = "FLAIR is a research group in the Department of Engineering Science at the University of Oxford, specialising in Reinforcement Learning."         # Max 160 characters show in search results
+    # images = ["tmp.png"]         # Image that shows on Twitter cards and Open Graph links to the site
+    # rss                = ""
+
+    siteLogo = "flair.png"
+    # splashPhoto = "flare.jpeg"
+    splashPhoto = "oxford.jpeg"

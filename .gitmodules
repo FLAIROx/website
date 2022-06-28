@@ -1,0 +1,3 @@
+[submodule "themes/flair"]
+	path = themes/flair
+	url = git@github.com:FLAIROx/hugo-theme-flair.git
