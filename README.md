@@ -1,5 +1,5 @@
 # FLAIR Website
-_Administered by Matt Jackson (lead) and Matthias Hericks.
+_Administered by Matt Jackson.
 Branch main is automatically deployed to Netlify so please only push public stuff there._
 
 This website is built with Hugo v0.93, so first install Hugo to run locally.
@@ -20,4 +20,4 @@ This website is built with Hugo v0.93, so first install Hugo to run locally.
 * Add image to `content/members/firstname-surname.png`
 
 ## Editing the website theme
-The website uses a custom theme ([FLAIR](https://github.com/OxFLAIR/hugo-theme-flair)) as a git submodule, located in `themes/flair`. This can be edited by pushing changes to the theme repo, then pointing to the latest commit.
+The website uses a custom theme ([FLAIR](https://github.com/FLAIROx/hugo-theme-flair)) as a git submodule, located in `themes/flair`. This can be edited by pushing changes to the theme repo, then pointing to the latest commit.
