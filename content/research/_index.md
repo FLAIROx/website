@@ -2,6 +2,5 @@
 title: "Research"
 weight: 20
 
-topics: ["Policy Optimization", "Multi-Agent", "Cooperative AI", "Meta-Learning"]
-js: ["paper-filter"]
+topics: ["Multi-Agent", "Zero-Shot Coordination", "Meta-Learning", "Environment Design"]
 ---
