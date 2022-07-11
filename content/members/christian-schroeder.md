@@ -8,6 +8,6 @@ role: Postdocs
 
 website: https://www.schroederdewitt.com/
 twitterHandle: casdewitt
-googleScholar: https://scholar.google.com/citations?user=DE60h_0AAAAJ&hl=de
+googleScholar: https://scholar.google.com/citations?user=DE60h_0AAAAJ
 githubHandle: schroederdewitt
 ---

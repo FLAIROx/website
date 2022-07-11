@@ -2,5 +2,5 @@
 title: "Research"
 weight: 20
 
-topics: ["Multi-Agent", "Zero-Shot Coordination", "Meta-Learning", "Environment Design"]
+topics: ["Multi-Agent", "Opponent Shaping", "Meta-Learning"]
 ---

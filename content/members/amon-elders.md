@@ -7,6 +7,6 @@ role: "DPhil Students"
 
 website:
 twitter:
-googleScholar:
+googleScholar: https://scholar.google.com/citations?user=BtZ60iAAAAAJ&hl=en
 githubHandle: amonelders
 ---
