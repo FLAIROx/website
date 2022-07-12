@@ -1,6 +1,6 @@
 ---
-name: "Mattias Hericks"
-image: "mattias-hericks.png"
+name: "Matthias Hericks"
+image: "matthias-hericks.png"
 yearJoined: 2022
 
 # See content/members/_index.md for valid roles
