@@ -20,6 +20,6 @@ sectionPagesMenu = "main"
     # images = ["tmp.png"]         # Image that shows on Twitter cards and Open Graph links to the site
     # rss                = ""
 
-    siteLogo = "flair.png"
+    siteLogo = "flair_transparent.png"
     # splashPhoto = "flare.jpeg"
     splashPhoto = "oxford.jpeg"
