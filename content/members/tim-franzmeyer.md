@@ -1,10 +1,10 @@
 ---
 name: "Tim Franzmeyer"
 image: "tim-franzmeyer.png"
-yearJoined: 2022
+yearJoined:
 
 # See content/members/_index.md for valid roles
-role: DPhil Students
+role: Collaborators
 
 website: https://www.robots.ox.ac.uk/~frtim/
 twitterHandle: frtimlive

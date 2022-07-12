@@ -1,10 +1,10 @@
 ---
 name: "Branton DeMoss"
 image: "branton-demoss.jpg"
-yearJoined: 2022
+yearJoined:
 
 # See content/members/_index.md for valid roles
-role: DPhil Students
+role: Collaborators
 
 website: www.brantondemoss.com
 twitterHandle: brantondemoss
