@@ -1,7 +1,7 @@
 ---
 name: "Timon Willi"
 image: "timon-willi.jpeg"
-yearJoined: 2021
+yearJoined: 2020
 
 # See content/members/_index.md for valid roles
 role: DPhil Students
