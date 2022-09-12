@@ -2,6 +2,8 @@
 _Administered by Matt Jackson.
 Branch main is automatically deployed to Netlify so please only push public stuff there._
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eeb10d48-0171-4cbb-bb96-81ad0d0ec659/deploy-status)](https://app.netlify.com/sites/reliable-scone-de5f38/deploys)
+
 This website is built with Hugo v0.93, so first install Hugo to run locally.
 
 ## Adding new papers or lab members
