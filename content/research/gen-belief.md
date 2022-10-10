@@ -7,5 +7,5 @@ link: "https://arxiv.org/abs/2206.12765"
 image: "gen-belief.png"
 
 # For paper ordering, must have format yyyy-mm-dd
-pubdate: "2022-06-26"
+pubdate: "2022-03-18"
 ---
