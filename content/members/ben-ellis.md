@@ -1,7 +1,7 @@
 ---
 name: "Ben Ellis"
 image: "ben-ellis.jpg"
-yearJoined: "2021"
+yearJoined: 2021
 info: "Co-Supervisor: Shimon Whiteson"
 
 # See content/members/_index.md for valid roles
