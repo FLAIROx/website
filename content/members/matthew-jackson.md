@@ -8,6 +8,6 @@ info: "Co-Supervisor: Shimon Whiteson"
 
 website: https://matthewtjackson.com
 twitterHandle: JacksonMattT
-googleScholar:
+googleScholar: https://scholar.google.com/citations?user=SdGawnwAAAAJ&hl=en
 githubHandle: EmptyJackson
 ---
