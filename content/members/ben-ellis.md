@@ -2,7 +2,7 @@
 name: "Ben Ellis"
 image: "ben-ellis.jpg"
 yearJoined: 2021
-info: "Co-Supervisor: Shimon Whiteson"
+info: "Co-adv: Shimon Whiteson"
 
 # See content/members/_index.md for valid roles
 role: DPhil Students

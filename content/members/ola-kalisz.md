@@ -1,9 +1,9 @@
 ---
 name: "Ola Kalisz"
-image: "ola-kalisz.png"
+image: "ola-kalisz.jpg"
 yearJoined: 2022
 role: DPhil Students
-info: "Co-Supervisor: Alicia Higueruelo (Exscientia)"
+info: "Co-adv: Alicia Higueruelo (Exscientia)"
 
 website:
 twitterHandle: OlaKalisz8

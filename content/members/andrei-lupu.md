@@ -2,7 +2,7 @@
 name: "Andrei Lupu"
 image: "andrei-lupu.jpeg"
 yearJoined: 2022
-info: "Co-Supervisor: Roberta Raileanu"
+info: "Co-adv: Roberta Raileanu"
 
 # See content/members/_index.md for valid roles
 role: DPhil Students

@@ -1,6 +1,6 @@
 ---
 name: "Jack Parker-Holder"
-image: "jack-parkerholder.png"
+image: "jack-parkerholder.jpg"
 yearJoined:
 
 # See content/members/_index.md for valid roles
