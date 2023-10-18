@@ -3,7 +3,7 @@ name: "Ola Kalisz"
 image: "ola-kalisz.jpg"
 yearJoined: 2022
 role: DPhil Students
-info: "Co-adv: Alicia Higueruelo (Exscientia)"
+info: "Co-adv: Alicia Higueruelo"
 
 website:
 twitterHandle: OlaKalisz8
