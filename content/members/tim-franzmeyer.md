@@ -1,6 +1,6 @@
 ---
 name: "Tim Franzmeyer"
-image: "tim-franzmeyer.png"
+image: "tim-franzmeyer.jpg"
 yearJoined:
 
 # See content/members/_index.md for valid roles
