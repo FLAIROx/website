@@ -2,11 +2,11 @@
 name: "Christian Schroeder de Witt"
 image: "christian-schroeder.jpeg"
 yearJoined: 2021
-yearLeft: 2023
+yearLeft:
 
 # See content/members/_index.md for valid roles
-role: Alumni
-info: Postdoc
+role: Postdocs
+info:
 
 website: https://www.schroederdewitt.com/
 twitterHandle: casdewitt
