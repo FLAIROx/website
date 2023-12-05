@@ -4,7 +4,7 @@ authors: [Benjamin Ellis, Jonathan Cook, Skander Moalla, Mikayel Samvelyan, Ming
 venue: "NeurIPS Datasets and Benchmarks 2023"
 topics: [Multi-Agent, Benchmarks]
 link: "https://arxiv.org/abs/2212.07489"
-image: "smac_2.png"
+image: "smac_2.jpg"
 
 # For paper ordering, must have format yyyy-mm-dd
 pubdate: "2023-12-05"
