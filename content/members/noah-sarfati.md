@@ -1,12 +1,12 @@
 ---
 name: "Noah Sarfati"
 image: "noah-sarfati.jpeg"
-yearJoined: 2021
+yearJoined: MSc 2021
 yearLeft: 2022
 
 # See content/members/_index.md for valid roles
 role: Alumni
-info: MSc Statistics
+info: Applied Scientist @ Amazon
 
 website:
 twitterHandle:

@@ -1,12 +1,12 @@
 ---
 name: "Jia Wan"
 image: "jia-wan.jpg"
-yearJoined: 2022
+yearJoined: MSc 2022
 yearLeft: 2023
 
 # See content/members/_index.md for valid roles
 role: Alumni
-info: MSc Statistics
+info: PhD @ MIT
 
 website:
 twitterHandle: Jia_Wan_

@@ -1,12 +1,12 @@
 ---
 name: "Kang Li"
 image: "kang-li.jpg"
-yearJoined: 2021
+yearJoined: MSc 2021
 yearLeft: 2022
 
 # See content/members/_index.md for valid roles
 role: Alumni
-info: MSc Statistics
+info: PhD @ Oxford
 
 website:
 twitterHandle: Kang__Oxford

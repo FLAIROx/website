@@ -1,12 +1,12 @@
 ---
 name: "Christian Schroeder de Witt"
 image: "christian-schroeder.jpeg"
-yearJoined: 2021
+yearJoined: Postdoc 2021
 yearLeft: 2023
 
 # See content/members/_index.md for valid roles
 role: Alumni
-info: Postdoc
+info: Postdoc @ TVG, Oxford
 
 website: https://www.schroederdewitt.com/
 twitterHandle: casdewitt
