@@ -9,6 +9,8 @@ We have a regular invited speaker series at FLAIR, where we invite leading resea
 If you are interested in giving a talk at FLAIR, please get in touch!
 
 **Past Speakers**
+* [Ryan Lowe](https://www.linkedin.com/in/ryan-lowe-ab67a267/)
+* [Katja Hoffman](https://www.microsoft.com/en-us/research/people/kahofman/) (Microsoft Research)
 * [Tim Rocktäschel](https://rockt.github.io/) (Google DeepMind)
 * [David Krueger](https://www.davidscottkrueger.com/) (University of Cambridge)
 * [Pablo Castro](https://psc-g.github.io/) (Google DeepMind)
