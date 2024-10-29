@@ -25,7 +25,7 @@ If you are interested in giving a talk at FLAIR, please get in touch!
 * [Senthil Arul](https://scholar.google.com/citations?user=FO_J1ZgAAAAJ&hl=en) (University of Maryland)
 * [Robert Lange](https://roberttlange.github.io/) (Sakana AI)
 * [Christopher Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield) (University of Oxford)
-* [Micah Carroll](http://micahcarroll.github.io/) (University of California, Berkely)
+* [Micah Carroll](http://micahcarroll.github.io/) (University of California, Berkeley)
 * [Zifan Xu](https://daffan.github.io/) (University of Texas)
 * [Tal Kachman](https://sites.google.com/cerebrnita.com/talkachman/home) (Radboud University)
 * [Siddhant Gangapurwala](https://gangapurwala.com/) (Sony AI)
