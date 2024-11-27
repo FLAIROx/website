@@ -1,7 +1,7 @@
 ---
 title: "Model-Free Opponent Shaping"
 authors: ["Chris Lu", "Timon Willi", "Christian Schroeder de Witt", "Jakob Foerster"]
-venue: "ICML 2022 (Spotlight)"
+venue: "ICML 2022"
 topics: ["Multi-Agent", "Opponent Shaping", "Evolution"]
 link: "https://arxiv.org/abs/2205.01447"
 image: "mf-opp-shape.gif"

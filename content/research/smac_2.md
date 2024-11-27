@@ -1,5 +1,5 @@
 ---
-title: "SMACv2: An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning"
+title: "SMACv2: An Improved Benchmark for Cooperative Multi-Agent RL"
 authors: [Benjamin Ellis, Jonathan Cook, Skander Moalla, Mikayel Samvelyan, Mingfei Sun, Anuj Mahajan, Jakob Foerster, Shimon Whiteson]
 venue: "NeurIPS Datasets and Benchmarks 2023"
 topics: [Multi-Agent, Benchmarks]

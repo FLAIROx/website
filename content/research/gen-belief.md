@@ -1,7 +1,7 @@
 ---
 title: "Generalized Beliefs for Cooperative AI"
 authors: ["Darius Muglich", "Luisa Zintgraf", "Christian Schroeder de Witt", "Shimon Whiteson", "Jakob Foerster"]
-venue: "ICML 2022 (Spotlight)"
+venue: "ICML 2022"
 topics: ["Multi-Agent"]
 link: "https://arxiv.org/abs/2206.12765"
 image: "gen-belief.png"

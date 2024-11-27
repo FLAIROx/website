@@ -1,5 +1,5 @@
 ---
-title: "Structured State Space Models for In-Context Reinforcement Learning"
+title: "Structured State Space Models for In-Context RL"
 authors: ["Chris Lu", "Yannick Schroecker", "Albert Gu", "Emilio Parisotto", "Jakob Foerster", "Satinder Singh", "Feryal Behbahani"]
 venue: "NeurIPS 2023"
 topics: ["Meta-Learning"]
