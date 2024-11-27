@@ -2,7 +2,7 @@
 title: "EvIL: Evolution Strategies for Generalisable Imitation Learning"
 authors: [Silvia Sapora, Chris Lu, Gokul Swamy, Yee Whye Teh, Jakob Foerster]
 venue: "ICML 2024"
-topics: [""]
+topics: []
 link: "https://openreview.net/forum?id=KXNLvfCxEr"
 image: "evil.png"
 

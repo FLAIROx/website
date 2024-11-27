@@ -2,7 +2,7 @@
 title: "Perfectly Secure Steganography using Minimum Entropy Coupling"
 authors: ["Christian Schroeder de Witt*", "Samuel Sokota*", "Ziko Kolter", "Jakob Foerster", "Martin Strohmeier"]
 venue: "ICLR 2023"
-topics: ["Communication"]
+topics: []
 link: "https://arxiv.org/abs/2210.14889"
 image: "stego.jpg"
 
