@@ -4,3 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.93.3"
+
+[[redirects]]
+  from = "/join"
+  to = "https://www.jakobfoerster.com/"
