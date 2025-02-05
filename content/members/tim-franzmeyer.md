@@ -4,7 +4,8 @@ image: "tim-franzmeyer.jpg"
 yearJoined:
 
 # See content/members/_index.md for valid roles
-role: Collaborators
+role: Associate Members
+info: Associate PhD
 
 website: https://www.robots.ox.ac.uk/~frtim/
 twitterHandle: frtimlive

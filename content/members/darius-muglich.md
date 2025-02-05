@@ -1,13 +1,14 @@
 ---
 name: "Darius Muglich"
 image: "darius-muglich.jpeg"
-yearJoined:
+yearJoined: 2024
+info: "Co-adv: Lars Kunze"
 
 # See content/members/_index.md for valid roles
-role: Collaborators
+role: DPhil Students
 
 website:
-twitterHandle: dariusmuglich
-googleScholar:
+twitterHandle:
+googleScholar: https://scholar.google.ca/citations?user=EOXzZqoAAAAJ&hl=en
 githubHandle: gfppoy
 ---

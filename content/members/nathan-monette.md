@@ -4,7 +4,8 @@ image: "nathan-monette.jpeg"
 yearJoined:
 
 # See content/members/_index.md for valid roles
-role: Collaborators
+role: Associate Members
+info: Visiting Student (BSc)
 
 website: https://nmonette.github.io
 twitterHandle: nathanrmonette
