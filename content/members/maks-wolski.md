@@ -5,7 +5,7 @@ yearJoined:
 
 # See content/members/_index.md for valid roles
 role: Associate Members
-info: Visiting Student (BSc)
+info: Visiting Student (MSc)
 
 website:
 twitterHandle:
