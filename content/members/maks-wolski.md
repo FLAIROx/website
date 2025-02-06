@@ -1,6 +1,6 @@
 ---
 name: "Maksymilian Wolski"
-image: "maks-wolski.jpeg"
+image: "maks-wolski.jpg"
 yearJoined:
 
 # See content/members/_index.md for valid roles
