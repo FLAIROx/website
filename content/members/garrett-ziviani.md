@@ -5,7 +5,7 @@ yearJoined:
 
 # See content/members/_index.md for valid roles
 role: Associate Members
-info: Group Support
+info: "Group Support [[Email](mailto:garrett.deceuninck-ziviani@eng.ox.ac.uk)]"
 
 website:
 twitterHandle:
