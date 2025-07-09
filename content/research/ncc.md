@@ -1,6 +1,6 @@
 ---
 title: "An Optimisation Framework for Unsupervised Environment Design"
-authors: ["Nathan Monette", "Alistair Letcher", "Michael Beukman", "Matthew T. Jackson", "Alexander Rutherford", "Alexander D. Goldie", "Jakob N. Foerster"]
+authors: ["Nathan Monette", "Alistair Letcher", "Michael Beukman", "Matthew Jackson", "Alexander Rutherford", "Alexander Goldie", "Jakob Foerster"]
 venue: "RLC 2025"
 topics: [Environment Design]
 link: "https://arxiv.org/abs/2505.20659"
