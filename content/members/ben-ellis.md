@@ -1,11 +1,12 @@
 ---
 name: "Ben Ellis"
 image: "ben-ellis.jpg"
-yearJoined: 2021
-info: "Co-adv: Shimon Whiteson"
+yearJoined: DPhil 2021
+yearLeft: 2025
+info: Research Scientist @ Reflection AI
 
 # See content/members/_index.md for valid roles
-role: DPhil Students
+role: Alumni
 
 website:
 twitterHandle: benjamin_ellis3

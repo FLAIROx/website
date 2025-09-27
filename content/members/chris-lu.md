@@ -1,10 +1,12 @@
 ---
 name: "Chris Lu"
 image: "chris-lu.jpg"
-yearJoined: 2021
+yearJoined: DPhil 2021
+yearLeft: 2025
 
 # See content/members/_index.md for valid roles
-role: DPhil Students
+role: Alumni
+info: Research Scientist @ OpenAI
 
 website: https://chrislu.page/
 twitterHandle: _chris_lu_

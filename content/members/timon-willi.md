@@ -1,10 +1,12 @@
 ---
 name: "Timon Willi"
 image: "timon-willi.jpeg"
-yearJoined: 2021
+yearJoined: DPhil 2021
+yearLeft: 2025
 
 # See content/members/_index.md for valid roles
-role: DPhil Students
+role: Alumni
+info: Research Scientist @ Meta
 
 website:
 twitterHandle: TimonWilli
