@@ -2,7 +2,7 @@
 title: "Adversarial Cheap Talk"
 authors: ["Chris Lu", "Timon Willi", "Alistair Letcher", "Jakob Foerster"]
 venue: "ICML 2023"
-topics: [Meta-Learning]
+topics: [Meta-Learning, AI Safety]
 link: "https://arxiv.org/abs/2211.11030"
 image: "act.gif"
 

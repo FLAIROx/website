@@ -9,9 +9,3 @@ image: "adios.png"
 # For paper ordering, must have format yyyy-mm-dd
 pubdate: "2025-06-01"
 ---
-
-
-
-
-
-
