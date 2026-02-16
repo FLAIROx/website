@@ -1,6 +1,6 @@
 ---
 name: "Samuel Simons"
-image: "samuel-simons.png"
+image: "samuel-simons.jpg"
 yearJoined: 2025
 
 # See content/members/_index.md for valid roles

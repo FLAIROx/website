@@ -1,7 +1,7 @@
 ---
 # title: "Jakob Foerster"
 name: "Jakob Foerster"
-image: "jakob-foerster.png"
+image: "jakob-foerster.jpg"
 yearJoined:
 role: "Faculty"
 

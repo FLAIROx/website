@@ -1,6 +1,6 @@
 ---
 name: "Thom Foster"
-image: "thom-foster.png"
+image: "thom-foster.jpg"
 yearJoined: 2024
 info:
 

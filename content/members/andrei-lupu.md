@@ -1,6 +1,6 @@
 ---
 name: "Andrei Lupu"
-image: "andrei-lupu.jpeg"
+image: "andrei-lupu.jpg"
 yearJoined: 2022
 info: "Co-adv: Roberta Raileanu"
 

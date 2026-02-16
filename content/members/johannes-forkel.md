@@ -1,6 +1,6 @@
 ---
 name: "Johannes Forkel"
-image: "johannes-forkel.jpeg"
+image: "johannes-forkel.jpg"
 yearJoined: 2024
 yearLeft:
 

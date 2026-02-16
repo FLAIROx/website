@@ -1,6 +1,6 @@
 ---
 name: "Timon Willi"
-image: "timon-willi.jpeg"
+image: "timon-willi.jpg"
 yearJoined: DPhil 2021
 yearLeft: 2025
 

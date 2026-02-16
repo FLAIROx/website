@@ -1,6 +1,6 @@
 ---
 name: "Noah Sarfati"
-image: "noah-sarfati.jpeg"
+image: "noah-sarfati.jpg"
 yearJoined: MSc 2021
 yearLeft: 2022
 

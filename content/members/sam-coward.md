@@ -1,6 +1,6 @@
 ---
 name: "Sam Coward"
-image: "sam-coward.jpeg"
+image: "sam-coward.jpg"
 yearJoined: 2023
 info: ""
 

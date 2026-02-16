@@ -1,6 +1,6 @@
 ---
 name: "Alex Goldie"
-image: "alex-goldie.png"
+image: "alex-goldie.jpg"
 yearJoined: 2023
 info: "Co-adv: Shimon Whiteson"
 

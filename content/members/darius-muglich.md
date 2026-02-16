@@ -1,6 +1,6 @@
 ---
 name: "Darius Muglich"
-image: "darius-muglich.jpeg"
+image: "darius-muglich.jpg"
 yearJoined: 2024
 info: "Co-adv: Lars Kunze"
 

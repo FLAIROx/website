@@ -1,6 +1,6 @@
 ---
 name: "Dylan Cope"
-image: "dylan-cope.png"
+image: "dylan-cope.jpg"
 yearJoined: 2025
 yearLeft:
 

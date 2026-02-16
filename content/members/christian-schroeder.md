@@ -1,6 +1,6 @@
 ---
 name: "Christian Schroeder de Witt"
-image: "christian-schroeder.jpeg"
+image: "christian-schroeder.jpg"
 yearJoined: Postdoc 2021
 yearLeft: 2023
 

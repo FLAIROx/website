@@ -1,6 +1,6 @@
 ---
 name: "Nathan Monette"
-image: "nathan-monette.jpeg"
+image: "nathan-monette.jpg"
 yearJoined: 2024
 
 # See content/members/_index.md for valid roles

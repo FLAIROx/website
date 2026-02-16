@@ -1,6 +1,6 @@
 ---
 name: "Mattie Fellows"
-image: "mattie-fellows.jpeg"
+image: "mattie-fellows.jpg"
 yearJoined: 2024
 yearLeft:
 

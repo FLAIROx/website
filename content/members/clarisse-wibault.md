@@ -1,6 +1,6 @@
 ---
 name: "Clarisse Wibault"
-image: "clarisse-wibault.jpeg"
+image: "clarisse-wibault.jpg"
 yearJoined: 2024
 info: "Co-adv: Michael Osborne"
 

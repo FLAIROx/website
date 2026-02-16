@@ -1,6 +1,6 @@
 ---
 name: "Alex Rutherford"
-image: "alex-rutherford.png"
+image: "alex-rutherford.jpg"
 yearJoined: 2022
 info: "Co-adv: N.Hawes, B.Lacerda"
 
