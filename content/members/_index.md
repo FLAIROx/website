@@ -6,5 +6,5 @@ roles: ["Faculty", "Postdocs", "DPhil Students", "Master's Students", "Associate
 # Print and sort by date joined for the following roles:
 sortJoinDate: ["Postdocs", "DPhil Students", "Master's Students"]
 sortLeftDate: ["Alumni"]
-comingSoon: ["Master's Students"]
+comingSoon: []
 ---

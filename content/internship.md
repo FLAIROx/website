@@ -1,6 +1,6 @@
 ---
 title: "Internship - Summer/Autumn 2026"
-menu: "main"
+draft: true
 weight: 45
 ---
 
