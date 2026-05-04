@@ -1,0 +1,11 @@
+{{ partial "head/metadata.html" . }}
+{{ partial "head/favicons.html" . }}
+{{ partial "head/fonts.html" . }}
+{{ partial "head/css.html" . }}
+
+<!-- Hugo templates -->
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ if not (in (string .Site.BaseURL) "localhost") }}
+    {{ template "_internal/google_analytics.html" . }}
+{{ end }}
